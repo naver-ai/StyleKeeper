@@ -1,4 +1,5 @@
-## 🎨 Visual Style Prompting with Swapping Self-Attention (ICCV 2025)
+## 🎨 StyleKeeper: Prevent Content Leakage using Negative Visual Query Guidance (ICCV 2025)
+## 🎨 Visual Style Prompting with Swapping Self-Attention (CVPRW AI4CC 2025 Best + Oral paper)
 ### : Text-to-Stylized image with Training-free
 ### ArXiv | 📖 [Paper](https://arxiv.org/abs/2402.12974) | ✨ [Project page](https://curryjung.github.io/VisualStylePrompt)
 
