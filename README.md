@@ -1,7 +1,7 @@
 ## 🎨 StyleKeeper: Prevent Content Leakage using Negative Visual Query Guidance (ICCV 2025)
 ### 🎨 Visual Style Prompting with Swapping Self-Attention (CVPRW AI4CC 2024 Best + Oral paper)
 ### : Text-to-Stylized image with Training-free
-### ArXiv | 📖 [Paper](https://arxiv.org/abs/2402.12974) | ✨ [Project page](https://curryjung.github.io/VisualStylePrompt)
+### ArXiv | 📖 [StyleKeeper Paper](https://arxiv.org/abs/2510.06827) | 📖 [VSP Paper](https://arxiv.org/abs/2402.12974) | ✨ [VSP Project page](https://curryjung.github.io/VisualStylePrompt)
 
 > #### Authors &emsp;&emsp; [Jaeseok Jeong](https://drive.google.com/file/d/19I3s70cfQ45dC_JiD2kmkv0MZ8yu4kBZ/view)<sup>1,2&#42;</sup>, [Junho Kim](https://github.com/taki0112)<sup>1&#42;</sup>, [Gayoung Lee](https://www.linkedin.com/in/gayoung-lee-0824548a/?originalSubdomain=kr)<sup>1</sup>, [Yunjey Choi](https://www.linkedin.com/in/yunjey-choi-27b347175/?originalSubdomain=kr)<sup>1</sup>, [Youngjung Uh](https://vilab.yonsei.ac.kr/member)<sup>2&dagger;</sup> <br> <sub> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <sup>1</sup>NAVER AI Lab, <sup>2</sup>Yonsei University</sub> <br> <sub> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <sup>&#42;</sup>Equal Contribution, <sup>&dagger;</sup>Corresponding author</sub>
 
