@@ -15,6 +15,7 @@
 * [x] color calibration to use a real image as reference
 * [x] user image in demo
 * [x] gpu upgrade in demo (Thanks for HF)
+* [ ] StyleKeeper version
 
 ---
 
