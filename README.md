@@ -70,11 +70,11 @@
 ---
 ### 📚 Citation
 ```bibtex
-@article{jeong2024visual,
-  title={Visual Style Prompting with Swapping Self-Attention},
-  author={Jeong, Jaeseok and Kim, Junho and Choi, Yunjey and Lee, Gayoung and Uh, Youngjung},
-  journal={arXiv preprint arXiv:2402.12974},
-  year={2024}
+@inproceedings{jeong2025stylekeeper,
+  title={StyleKeeper: Prevent Content Leakage using Negative Visual Query Guidance},
+  author={Jeong, Jaeseok and Kim, Junho and Lee, Gayoung and Choi, Yunjey and Uh, Youngjung},
+  booktitle={ICCV},
+  year={2025}
 }
 ```
 
