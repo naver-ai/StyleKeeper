@@ -79,6 +79,15 @@
 }
 ```
 
+```bibtex
+@article{jeong2024visual,
+  title={Visual style prompting with swapping self-attention},
+  author={Jeong, Jaeseok and Kim, Junho and Choi, Yunjey and Lee, Gayoung and Uh, Youngjung},
+  journal={arXiv preprint arXiv:2402.12974},
+  year={2024}
+}
+```
+
 ---
 ### ✨ License
 ```
